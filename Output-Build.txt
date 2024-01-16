@@ -1,0 +1,153 @@
+﻿Build started...
+1>------ Build started: Project: WebAppAzureBookDb, Configuration: Release Any CPU ------
+1>D:\Phase 3 Assignments\D8 Assignment 8\WebAppAzureBookDb\WebAppAzureBookDb\Models\BookStoreDbContext.cs(25,10,25,379): warning CS1030: #warning: 'To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.'
+1>WebAppAzureBookDb -> D:\Phase 3 Assignments\D8 Assignment 8\WebAppAzureBookDb\WebAppAzureBookDb\bin\Release\net6.0\WebAppAzureBookDb.dll
+1>Done building project "WebAppAzureBookDb.csproj".
+2>------ Publish started: Project: WebAppAzureBookDb, Configuration: Release Any CPU ------
+WebAppAzureBookDb -> D:\Phase 3 Assignments\D8 Assignment 8\WebAppAzureBookDb\WebAppAzureBookDb\bin\Release\net6.0\WebAppAzureBookDb.dll
+WebAppAzureBookDb -> D:\Phase 3 Assignments\D8 Assignment 8\WebAppAzureBookDb\WebAppAzureBookDb\obj\Release\net6.0\PubTmp\Out\
+Adding directory (webappbook22\runtimes).
+Adding directory (webappbook22\runtimes\unix).
+Adding directory (webappbook22\runtimes\unix\lib).
+Adding directory (webappbook22\runtimes\unix\lib\netcoreapp3.0).
+Adding directory (webappbook22\runtimes\unix\lib\netcoreapp3.1).
+Adding directory (webappbook22\runtimes\win).
+Adding directory (webappbook22\runtimes\win\lib).
+Adding directory (webappbook22\runtimes\win\lib\netcoreapp3.0).
+Adding directory (webappbook22\runtimes\win\lib\netcoreapp3.1).
+Adding directory (webappbook22\runtimes\win\lib\netstandard2.0).
+Adding directory (webappbook22\runtimes\win-arm).
+Adding directory (webappbook22\runtimes\win-arm\native).
+Adding directory (webappbook22\runtimes\win-arm64).
+Adding directory (webappbook22\runtimes\win-arm64\native).
+Adding directory (webappbook22\runtimes\win-x64).
+Adding directory (webappbook22\runtimes\win-x64\native).
+Adding directory (webappbook22\runtimes\win-x86).
+Adding directory (webappbook22\runtimes\win-x86\native).
+Adding directory (webappbook22\wwwroot).
+Adding directory (webappbook22\wwwroot\css).
+Adding directory (webappbook22\wwwroot\js).
+Adding directory (webappbook22\wwwroot\lib).
+Adding directory (webappbook22\wwwroot\lib\bootstrap).
+Adding directory (webappbook22\wwwroot\lib\bootstrap\dist).
+Adding directory (webappbook22\wwwroot\lib\bootstrap\dist\css).
+Adding directory (webappbook22\wwwroot\lib\bootstrap\dist\js).
+Adding directory (webappbook22\wwwroot\lib\jquery).
+Adding directory (webappbook22\wwwroot\lib\jquery\dist).
+Adding directory (webappbook22\wwwroot\lib\jquery-validation).
+Adding directory (webappbook22\wwwroot\lib\jquery-validation\dist).
+Adding directory (webappbook22\wwwroot\lib\jquery-validation-unobtrusive).
+Adding file (webappbook22\appsettings.Development.json).
+Adding file (webappbook22\appsettings.json).
+Adding file (webappbook22\Microsoft.Data.SqlClient.dll).
+Adding file (webappbook22\Microsoft.EntityFrameworkCore.Abstractions.dll).
+Adding file (webappbook22\Microsoft.EntityFrameworkCore.dll).
+Adding file (webappbook22\Microsoft.EntityFrameworkCore.Relational.dll).
+Adding file (webappbook22\Microsoft.EntityFrameworkCore.SqlServer.dll).
+Adding file (webappbook22\Microsoft.Extensions.Caching.Memory.dll).
+Adding file (webappbook22\Microsoft.Extensions.DependencyInjection.dll).
+Adding file (webappbook22\Microsoft.Identity.Client.dll).
+Adding file (webappbook22\Microsoft.IdentityModel.JsonWebTokens.dll).
+Adding file (webappbook22\Microsoft.IdentityModel.Logging.dll).
+Adding file (webappbook22\Microsoft.IdentityModel.Protocols.dll).
+Adding file (webappbook22\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll).
+Adding file (webappbook22\Microsoft.IdentityModel.Tokens.dll).
+Adding file (webappbook22\Microsoft.Win32.SystemEvents.dll).
+Adding file (webappbook22\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll).
+Adding file (webappbook22\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll).
+Adding file (webappbook22\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll).
+Adding file (webappbook22\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll).
+Adding file (webappbook22\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll).
+Adding file (webappbook22\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll).
+Adding file (webappbook22\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll).
+Adding file (webappbook22\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll).
+Adding file (webappbook22\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll).
+Adding file (webappbook22\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll).
+Adding file (webappbook22\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll).
+Adding file (webappbook22\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll).
+Adding file (webappbook22\System.Configuration.ConfigurationManager.dll).
+Adding file (webappbook22\System.Diagnostics.DiagnosticSource.dll).
+Adding file (webappbook22\System.Drawing.Common.dll).
+Adding file (webappbook22\System.IdentityModel.Tokens.Jwt.dll).
+Adding file (webappbook22\System.Runtime.Caching.dll).
+Adding file (webappbook22\System.Security.Cryptography.ProtectedData.dll).
+Adding file (webappbook22\System.Security.Permissions.dll).
+Adding file (webappbook22\System.Windows.Extensions.dll).
+Adding file (webappbook22\web.config).
+Adding file (webappbook22\WebAppAzureBookDb.deps.json).
+Adding file (webappbook22\WebAppAzureBookDb.dll).
+Adding file (webappbook22\WebAppAzureBookDb.exe).
+Adding file (webappbook22\WebAppAzureBookDb.pdb).
+Adding file (webappbook22\WebAppAzureBookDb.runtimeconfig.json).
+Adding file (webappbook22\wwwroot\css\site.css).
+Adding file (webappbook22\wwwroot\favicon.ico).
+Adding file (webappbook22\wwwroot\js\site.js).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap.css).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\js\bootstrap.js).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js).
+Adding file (webappbook22\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map).
+Adding file (webappbook22\wwwroot\lib\bootstrap\LICENSE).
+Adding file (webappbook22\wwwroot\lib\jquery\dist\jquery.js).
+Adding file (webappbook22\wwwroot\lib\jquery\dist\jquery.min.js).
+Adding file (webappbook22\wwwroot\lib\jquery\dist\jquery.min.map).
+Adding file (webappbook22\wwwroot\lib\jquery\LICENSE.txt).
+Adding file (webappbook22\wwwroot\lib\jquery-validation\dist\additional-methods.js).
+Adding file (webappbook22\wwwroot\lib\jquery-validation\dist\additional-methods.min.js).
+Adding file (webappbook22\wwwroot\lib\jquery-validation\dist\jquery.validate.js).
+Adding file (webappbook22\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js).
+Adding file (webappbook22\wwwroot\lib\jquery-validation\LICENSE.md).
+Adding file (webappbook22\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js).
+Adding file (webappbook22\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js).
+Adding file (webappbook22\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt).
+Adding file (webappbook22\wwwroot\WebAppAzureBookDb.styles.css).
+Publish Succeeded.
+Web App was published successfully https://webappbook22.azurewebsites.net/
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 11:14 PM and took 58.173 seconds ==========
+========== Publish: 1 succeeded, 0 failed, 0 skipped ==========
+========== Publish started at 11:14 PM and took 58.174 seconds ==========
+Unable to reach your Windows App Service to ensure it will be able to run your application.
+Installation of Web App Site extension Microsoft.AspNetCore.AzureAppServices.SiteExtension is in progress...
+Successfully installed Web App extension Microsoft.AspNetCore.AzureAppServices.SiteExtension
+Restarting the Web App...
+Successfully restarted Web App.
